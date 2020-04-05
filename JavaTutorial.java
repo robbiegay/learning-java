@@ -1,7 +1,11 @@
-public class MyClass {
+public class JavaTutorial {
     public static void main(String[] args) {
         
         // W3Schools Java Tutorial
+
+        // file name must match class name: javaTutorial.java -> public class javaTutorial
+        // in command line -> build the java file using: javac javaTutorial.java
+        // run that file using: java javaTutorial
 
         String myName = "Robbie";
         int myAge = 27, thisMonth = 4, thisYear = 2020;

@@ -1,4 +1,7 @@
-public class javaMethods {
+public class JavaMethods {
+
+    // w3schools java methods section
+
     static void myMethod() {
         System.out.println("This line runs from my method!");
     }
