@@ -1,4 +1,0 @@
-First Name: Will
-Last Name: Gay
-Occupation: Coder
-Hometown: Versailles
